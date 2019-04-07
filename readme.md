@@ -1,4 +1,4 @@
-## Laravel-Docker plug-and-play
+# Laravel-Docker plug-and-play
 
 This is quick plug-and-play setup for your `Laravel-Docker` projects
 
