@@ -21,7 +21,7 @@ Boom! access `project.local` on your favorite browser
 
 ## Questions and Improvements
 
-For any question or emprovement please send an e-mail Shady Smaoui [shady@veloxsolutions.ca](mailto:shady@veloxsolutions.ca).
+For any question or emprovement please send an e-mail to Shady Smaoui [shady@veloxsolutions.ca](mailto:shady@veloxsolutions.ca).
 
 ## License
 
