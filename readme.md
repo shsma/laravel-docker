@@ -15,7 +15,7 @@ Comes with:
 - `cp .env.exemple .env`
 - `docker-compose exec app php artisan key:generate`
 
-Now that all containers are up, we can add `project.local` to our `/etc/hosts` file
+Now that all containers are up, we can add `127.0.0.1 project.local` to our `/etc/hosts` file
 
 Boom! access `project.local` on your favorite browser
 
