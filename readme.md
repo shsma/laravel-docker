@@ -1,6 +1,6 @@
 # Laravel-Docker plug-and-play
 
-This is quick plug-and-play setup for your `Laravel-Docker` projects
+This is a quick plug-and-play setup for your `Laravel-Docker` projects
 
 Comes with:
 - web-app: `Laravel/PHP-7.2`
