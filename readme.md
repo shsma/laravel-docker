@@ -12,7 +12,7 @@ Comes with:
 - `cd laravel-docker-master`
 - `docker-compose up -d`
 - `docker-compose exec app composer install`
-- `cp .env.exemple .env`
+- `cp .env.example .env`
 - `docker-compose exec app php artisan key:generate`
 
 Now that all containers are up, we can add `127.0.0.1 project.local` to our `/etc/hosts` file
