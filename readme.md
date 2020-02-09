@@ -11,7 +11,7 @@ Comes with:
 - `git clone git@github.com:shsma/laravel-docker.git`
 - `cd laravel-docker-master`
 - `docker-compose up -d`
-- `docker-compose exec app composer install`
+- `docker exec app composer install`
 - `cp .env.example .env`
 - `docker-compose exec app php artisan key:generate`
 
