@@ -7,7 +7,7 @@ Comes with:
 - web-server: `Nginx:alpine`
 - database: `Mysql-5.7.22`
 
-## Installatioin
+## Setup
 - `git clone git@github.com:shsma/laravel-docker.git`
 - `cd laravel-docker-master`
 - `docker-compose up -d`
